@@ -7,6 +7,7 @@
 #include<graphics.h>
 #include<dos.h>
 
+// global variable
 unsigned int x[16],y[16],direction=4,cnt=0,ch=1;
 /*
     direction values:-
